@@ -1,0 +1,21 @@
+{
+    "theme": "dark_modern",
+    "seed": null,
+    "camera_mode": 2,
+    "start_playing_delay": 1000,
+    "max_notes": null,
+    "bounce_min_spacing": 50,
+    "square_speed": 1300,
+    "volume": 70,
+    "music_offset": 0,
+    "direction_change_chance": 30,
+    "hp_drain_rate": 10,
+    "theatre_mode": true,
+    "particle_trail": true,
+    "shader_file_name": "art.glsl",
+    "do_color_bounce_pegs": true,
+    "do_particles_on_bounce": true,
+    "language": "czech",
+    "SCREEN_WIDTH": 1920,
+    "SCREEN_HEIGHT": 1080
+}
